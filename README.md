@@ -5,4 +5,4 @@ require python and this package installed:
   * pyttsx3
 
 other python built-in package that used:
-  *tkinter
+  * tkinter
